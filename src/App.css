@@ -1,0 +1,8 @@
+.feature {
+  display: inline-flex;
+  width: 4rem;
+  height: 4rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+}
